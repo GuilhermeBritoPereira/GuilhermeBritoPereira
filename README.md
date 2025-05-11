@@ -2,7 +2,6 @@
 
 # 👨🏻‍💻 Guilherme Brito Pereira
 
-**`Desenvolvedor FullStack`**
 
 💻 Estudante de Ciência da Computação | 🚀 Em busca do primeiro estágio como desenvolvedor
 Atualmente fazendo o curso Webmaster Front-End Completo, onde estou aprendendo desde o básico até tópicos avançados de desenvolvimento web.
