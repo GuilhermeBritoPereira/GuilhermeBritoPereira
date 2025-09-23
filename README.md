@@ -3,12 +3,23 @@
 # 👨🏻‍💻 Guilherme Brito Pereira
 
 
-💻 Estudante de Ciência da Computação | 🚀 Em busca do primeiro estágio como desenvolvedor
-Atualmente fazendo o curso Webmaster Front-End Completo, onde estou aprendendo desde o básico até tópicos avançados de desenvolvimento web.
-📚 Estudando HTML5, CSS3, JavaScript, jQuery, Sass, Bootstrap, React, Angular, TypeScript, Node.js, UI/UX, ferramentas modernas como Webpack, Gulp e muito mais.
-👨‍💻 Sempre focado em aplicar os conhecimentos em projetos práticos e evoluir um pouco todos os dias.
-🎯 Meu objetivo é me tornar um desenvolvedor full stack e construir soluções que impactem pessoas de verdade.
+Estudante de Ciência da Computação (4º semestre) apaixonado por usar a tecnologia como uma ferramenta para resolver problemas reais. Mais do que apenas codificar, busco entender o impacto que um software eficiente pode gerar, e estou em busca da minha primeira oportunidade de estágio para transformar conhecimento em resultados.
 
+Atualmente, estou construindo uma base sólida em Desenvolvimento Web, com foco em front-end (HTML, CSS, JavaScript e React). Paralelamente, exploro os fundamentos do back-end com Python e Programação Orientada a Objetos, com o objetivo de me tornar um desenvolvedor Full-Stack. Sou um defensor de código limpo e boas práticas, utilizando Git e GitHub em todos os meus projetos.
+
+Minha curiosidade vai além do desenvolvimento. Tenho um forte interesse em como a tecnologia pode otimizar processos de negócio. Essa visão foi ampliada recentemente ao explorar o poder da análise de dados com Excel e Power BI, o que me motiva a buscar soluções que não apenas funcionem bem, mas que também gerem inteligência e eficiência para a empresa.
+
+Sou proativo, aprendo rápido e estou pronto para mergulhar em desafios e colaborar com equipes de alta performance. Busco ativamente uma oportunidade para aprender e contribuir em áreas como:
+
+🚀 Foco e Interesses:
+
+Desenvolvimento Front-End: React, JavaScript, HTML, CSS
+
+Back-End e Lógica: Python, Programação Orientada a Objetos (POO), SQL (Básico)
+
+Análise de Dados e BI: Power BI, Excel Avançado
+
+Ferramentas e Processos: Git, GitHub, Automação de Processos
 
 
 ---
